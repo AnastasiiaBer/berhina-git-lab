@@ -1,0 +1,5 @@
+This file was created directly on GitHub
+for Assignment 18: git pull exercise.
+
+Created: 01.12.2025
+Purpose: Demonstrate pulling changes from remote repository.
