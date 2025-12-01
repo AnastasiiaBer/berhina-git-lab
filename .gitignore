@@ -1,0 +1,4 @@
+*.log
+
+# Ignore cloned repositories
+Hello-World/
